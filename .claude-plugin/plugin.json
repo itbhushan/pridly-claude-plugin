@@ -1,0 +1,19 @@
+{
+  "name": "pridly",
+  "displayName": "Pridly",
+  "version": "1.1.0",
+  "description": "Run your PrestaShop shop from a conversation: sales, orders, stock and translation answers, plus safe bulk changes with preview and undo.",
+  "author": {
+    "name": "GridlyPaper",
+    "url": "https://gridlypaper.com"
+  },
+  "homepage": "https://pridly.gridlypaper.com",
+  "license": "MIT",
+  "keywords": [
+    "prestashop",
+    "ecommerce",
+    "shop",
+    "analytics",
+    "translation"
+  ]
+}

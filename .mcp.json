@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pridly": {
+      "type": "http",
+      "url": "https://mcp.pridly.gridlypaper.com/mcp"
+    }
+  }
+}
