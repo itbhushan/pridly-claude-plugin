@@ -15,5 +15,9 @@
     "shop",
     "analytics",
     "translation"
-  ]
+  ],
+  "privacyPolicyUrl": "https://gridlypaper.com/privacy",
+  "supportUrl": "https://gridlypaper.com/support",
+  "termsOfServiceUrl": "https://gridlypaper.com/terms",
+  "repository": "https://github.com/itbhushan/pridly-claude-plugin"
 }
